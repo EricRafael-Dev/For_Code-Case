@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <b>Simple estructure of DashBoard, data analysis using CSV with possible changes on future.</b>
+    <b>Solving Case question for a PS. (Group 3)</b>
 </p>
 
 <p align="center">
