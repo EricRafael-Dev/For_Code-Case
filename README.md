@@ -18,6 +18,16 @@
         - MatPlotLib
     - Quest 2:
         - Pure Python
+        - Without libraries
+    - Quest 3:
+        - Pure Python
+        - Without libraries
+    - Quest 4:
+        - Pure Python
+        - Without libraries
+    - Quest 5:
+        - Pure Python
+        - Without libraries
 
 <h2 id="started">🚀 Getting started</h2>
 
