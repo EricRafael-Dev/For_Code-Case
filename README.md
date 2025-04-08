@@ -17,11 +17,11 @@
 <h2 id="technologies">💻 Technologies</h2>
 
 - Python 3.13.2
-    -Quest 1:
-        -NumPy
-        -MatPlotLib
-    -Quest 2:
-        -Pure Python
+    - Quest 1:
+        - NumPy
+        - MatPlotLib
+    - Quest 2:
+        - Pure Python
 
 <h2 id="started">🚀 Getting started</h2>
 
