@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">DashBoards Py 💻</h1>
+<h1 align="center" style="font-weight: bold;">For_Code - Case 💻</h1>
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
@@ -6,22 +6,18 @@
 </p>
 
 <p align="center">
-    <b>Simple estructure of DashBoard, data analysis using CSV with possible changes on future.</b>
-</p>
-
-<p align="center">
-     <a href="https://dashboards-py.streamlit.app">📱 Visit this Project</a>
+    <b>Solving Case question for a PS. (Group 3)</b>
 </p>
 
 
 <h2 id="technologies">💻 Technologies</h2>
 
 - Python 3.13.2
-    -Quest 1:
-        -NumPy
-        -MatPlotLib
-    -Quest 2:
-        -Pure Python
+    - Quest 1:
+        - NumPy
+        - MatPlotLib
+    - Quest 2:
+        - Pure Python
 
 <h2 id="started">🚀 Getting started</h2>
 
