@@ -23,3 +23,5 @@ def quest1(temp_F, constant_R=8.314, critical_temperature_Tc=304.2, critical_pre
 
 
     return plotGraph(molar_volume, pressure)
+
+quest1(41)
